@@ -7,3 +7,5 @@ Bcha fué creado para que otros programadores puedan cambiar su código ya ajust
 El archivo Bcha Lite.vbs es más simple, tiene menos MsgBox.
 
 El archivo Bcha Completo es más largo, más mensajes.
+
+La contraseña predeterminada de Bcha es 123, pero podrá modificarla cambiando el script.
