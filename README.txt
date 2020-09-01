@@ -1,4 +1,4 @@
-Bcha es un "Softwafe" toldavía no muy bien desarrollado que podrá añadir como contraseña a cualquier archivo con el cóidigo.
+Bcha es un "Softwafe" todavía no muy bien desarrollado que podrá añadir como contraseña a cualquier archivo con el cóidigo.
 
 start Bcha Lite.vbs o start Bcha Completo.vbs.
 
