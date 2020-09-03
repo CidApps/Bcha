@@ -9,3 +9,8 @@ El archivo Bcha Lite.vbs es más simple, tiene menos MsgBox.
 El archivo Bcha Completo es más largo, más mensajes.
 
 La contraseña predeterminada de Bcha es 123, pero podrá modificarla cambiando el script.
+
+
+------------------------------------------------------------------------------------------
+
+Para enviar un FeedBack entra a FEEDBACK BCHA.msg
